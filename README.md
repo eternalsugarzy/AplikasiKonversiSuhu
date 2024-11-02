@@ -1,5 +1,5 @@
 
-# Aplikasi Aplikasi Konversi Suhu
+# Aplikasi Konversi Suhu
 
 Tugas 2 Modul Aplikasi Konversi Suhu
 
